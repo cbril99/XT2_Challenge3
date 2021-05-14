@@ -1,0 +1,33 @@
+body {
+	font-family: helvetica;
+	color: #FFFFFF;
+	background-color: #444444;
+
+    margin: 5vh 5vw;
+  
+}
+
+#weather {
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: "montserrat";
+	padding: 6px;
+	text-align: center;
+}
+.hidden {
+	display: none;
+}
+
+#map {
+    height: 90vh;
+    width: 90vw;
+}
+
+h1 {
+    font-size: 100px;
+    text-transform: uppercase;
+    text-align: center;
+    vertical-align: middle;
+    font-family: "montserrat";
+  }
